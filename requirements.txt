@@ -1,0 +1,17 @@
+
+#pip install tensorflow as ts
+#import mplot3dimport numpy as np
+#import matplotlib.pyplot as plt
+#mport numpy as np
+#import re
+#from nltk.corpus import stopwords
+#import CountVectorizer
+#from sklearn.ensemble import RandomForestClassifier
+#from sklearn.model_selection import train_test_split
+#from sklearn.metrics import accuracy_score
+#from sklearn.metrics import confusion_matrix
+#pip install nlp
+#from nltk.stem.wordnet import WordNetLemmatizer
+#from nltk.stem import PorterStemmer
+#from nltk.tokenize import sent_tokenize, word_tokenize
+#from nltk.probability import FreqDist
